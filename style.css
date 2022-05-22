@@ -37,13 +37,13 @@ body {
 
 .nav a:hover {
     color: #3882f6;
-    transform: rotate(10deg);
+    transform: translate(2px)
     display: block;
     transition: all 0.3s ease-out;
 }
 
 .hero {
-    padding: 60px 0px;
+    padding: 10% 0px;
     display: flex;
     background-color: #1f2937;
     justify-content: center;
